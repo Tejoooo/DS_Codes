@@ -23,7 +23,7 @@ struct node* create(int value)
     scanf("%d",&l);
     newnode->left=create(l);
     printf("Enter value of right child of %d: ",newnode->data);
-    sacnf("%d",&r);
+    scanf("%d",&r);
     newnode->right=create(r);
 
     return newnode;
