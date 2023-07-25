@@ -12,7 +12,7 @@ License
 Data structures are an important aspect of computer science and programming. They allow us to organize and store data in an efficient and effective manner, making it easier to manipulate and access the data as needed.
 
 As part of my practice, I have implemented various data structures in C and C++. These implementations serve as a learning tool for me to understand how these structures work and how they can be used in real-world applications.
-
+Understanding ds
 ## Data Structures Implemented
 The following data structures have been implemented in this repository:
 
